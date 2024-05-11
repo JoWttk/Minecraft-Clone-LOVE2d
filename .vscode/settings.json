@@ -1,0 +1,10 @@
+{
+    "robloxLsp.diagnostics.globals": [
+        "love",
+        "love"
+    ],
+    "robloxLsp.diagnostics.disable": [
+        "undefined-global",
+        "deprecated"
+    ]
+}
